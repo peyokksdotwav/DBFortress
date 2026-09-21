@@ -58,4 +58,4 @@ MIT, voir le fichier [LICENSE](LICENSE).
 
 ## Auteur
 
-[Ton pseudo ou ton nom], [lien vers ton GitHub ou ton LinkedIn]
+Peyo Moinard, Allias PeyoKks, étudiant en bts, mon linkedin : https://www.linkedin.com/in/peyo-moinard-96b24b316/
