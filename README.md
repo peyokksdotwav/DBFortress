@@ -10,7 +10,6 @@ Projet réalisé dans le cadre de ma formation BTS SIO (option SISR).
 
 ## Architecture
 
-[Insère ici un schéma : les VM, leurs rôles, le réseau.]
 
 | Machine      | Rôle                     | OS         |
 |--------------|--------------------------|------------|
@@ -20,7 +19,7 @@ Projet réalisé dans le cadre de ma formation BTS SIO (option SISR).
 ## Technologies
 
 - Debian (sans interface graphique)
-- PostgreSQL ou MySQL [à préciser]
+- PostgreSQL & MySQL
 - VirtualBox
 - [Grafana / Prometheus, Ansible... à ajouter au fur et à mesure]
 
@@ -46,11 +45,11 @@ ansible/   playbooks de déploiement
 
 ## Installation et utilisation
 
-[À compléter quand la première étape fonctionne : comment reproduire ton installation.]
+non
 
 ## Ce que j'apprends
 
-[Quelques lignes sur les difficultés rencontrées et comment tu les as résolues.]
+none
 
 ## Licence
 
