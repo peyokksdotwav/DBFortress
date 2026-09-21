@@ -26,7 +26,7 @@ Projet réalisé dans le cadre de ma formation BTS SIO (option SISR).
 ## Avancement
 
 - [x] Création du dépôt
-- [ ] Installation de la VM Debian
+- [X] Installation de la VM Debian
 - [ ] Installation et configuration de la base de données
 - [ ] Sauvegardes automatiques et test de restauration
 - [ ] Supervision et alertes
